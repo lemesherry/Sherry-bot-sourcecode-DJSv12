@@ -1,0 +1,19 @@
+{
+  "name": "sherry-4",
+  "version": "1.0.0",
+  "description": "A music bot for discord with all premium features for free",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemesherry/Sherry-4.git"
+  },
+  "author": "Sherry",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lemesherry/Sherry-4/issues"
+  },
+  "homepage": "https://github.com/lemesherry/Sherry-4#readme"
+}
