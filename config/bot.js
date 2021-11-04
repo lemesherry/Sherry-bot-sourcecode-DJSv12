@@ -6,7 +6,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODUwMDMyNjA5NTQzNDU0NzIw.YLj0jg.8R4RRVlA8kf28aBCxkU4pqE9lkc',
+        token: 'xyz',
         prefix: '+',
         activity: '+help',
     },
